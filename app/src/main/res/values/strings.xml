@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab3_4_Larry</string>
+    <string name="logInButton">Log In</string>
+    <string name="Name">Name</string>
+    <string name="password">Password</string>
+    <string name="emailAdress">Email</string>
+    <string name="rememberMe">Remember me</string>
+    <string name="fname">Fisrt Name</string>
+    <string name="lname">Last Name</string>
+    <string name="course">Course</string>
+    <string name="newStudent">Add a new Student</string>
+    <string name="addStudent">Add Student</string>
+    <string name="viewStudents">View Students</string>
+</resources>
